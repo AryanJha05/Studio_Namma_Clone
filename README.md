@@ -26,29 +26,35 @@ A responsive front-end clone of the **Studio Namma** website built using **HTML,
 
 ## 📁 Project Structure
 
-Studio-Namma-Clone/
-│── index.html
-│── style.css
-│── script.js
-│── images/
+```text
+StudioNamma_Clone/
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   └── image.png
 └── README.md
+```
 
 
 
 ## 🚀 Getting Started
 
-1. Clone the repository
+### Clone the repository
 
-git clone https://github.com/AryanJha05/Studio_Namma_Clone
+```bash
+git clone https://github.com/AryanJha05/StudioNamma_Clone.git
+```
 
+### Move into the project
 
-2. Navigate to the project folder
+```bash
+cd StudioNamma_Clone
+```
 
-cd studio-namma-clone
-
-
-3. Open `index.html` in your browser.
-
+```bash
+ Open `index.html` in your browser.
+```
 
 
 ## 📸 Screenshots
@@ -84,9 +90,10 @@ This project is a **front-end educational clone** created solely for learning an
 
 ## 👩‍💻 Author
 
-**Kumud Chouhan**
+**ARYAN JHA**
 
-* GitHub: https://github.com/AryanJha05/Studio_Namma_Clone
-* LinkedIn: https://www.linkedin.com/in/aryan-jha-050406aj
+- GitHub: [AryanJha05](https://github.com/AryanJha05)
+- LinkedIn: [Aryan Jha](https://www.linkedin.com/in/aryan-jha-050406aj)
 
-If you found this project interesting, feel free to ⭐ the repository 
+
+If you found this project useful or interesting, consider giving it a ⭐ on GitHub.
