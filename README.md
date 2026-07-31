@@ -4,7 +4,7 @@ A responsive front-end clone of the **Studio Namma** website built using **HTML,
 
 ## 🌐 Live Demo
 
-🔗 ![Click Here !!!](https://studio-namma-clone-aj05.vercel.app/)
+🔗 [Click Here !!!](https://studio-namma-clone-aj05.vercel.app/)
 
 
 ## ✨ Features
