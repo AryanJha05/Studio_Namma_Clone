@@ -15,7 +15,6 @@ A responsive front-end clone of the **Studio Namma** website built using **HTML,
 - 🖱️ Interactive navigation bar
 - ✨ Smooth hover and scroll animations
 - 🎞️ Animated GIF sections
-- 🌙 Dark-themed modern UI
 - ⚡ Optimized CSS transitions
 
 ## 🛠️ Tech Stack
